@@ -1,0 +1,25 @@
+{
+  "name": "javascript-shortcode-parser",
+  "version": "1.0.0",
+  "description": "javascript shortcode parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellitongervickas/javascript-shortcode-parser.git"
+  },
+  "keywords": [
+    "javascript",
+    "shortcode",
+    "parser",
+    "sprintf"
+  ],
+  "author": "Welliton Gervickas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellitongervickas/javascript-shortcode-parser/issues"
+  },
+  "homepage": "https://github.com/wellitongervickas/javascript-shortcode-parser#readme"
+}
