@@ -12,3 +12,5 @@
 > Input -> shortCodeParser('My name is {{user_name}}, { user_name: 'foobar' });
 > Output -> My name is foobar
 
+[Npm](https://www.npmjs.com/package/javascript-shortcode-parser)
+
