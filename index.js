@@ -8,8 +8,8 @@
  *
 */
 
-const shortCodeParse = (text, shortcode) => {
+const shortCodeParser = (text, shortcode) => {
   return text ? text.replace(/\{\{(.[^}]+)\}\}/g, (_, match) => shortcode[match]) : '';
 }
 
-export default shortCodeParse;
+export default shortCodeParser;
